@@ -59,7 +59,7 @@ nav {
     position: relative;
     float: right;
     top: 16px;
-    margin-top: 16px;
+    margin-top: 32px;
 }
 
 .rainwardtext {
@@ -68,7 +68,8 @@ nav {
     vertical-align: top;
     float: left;
     font-size: 24px;
-    margin-top: 28px;
+    margin-top: 52px;
+    margin-left: 28px;
 }
 
 a {
