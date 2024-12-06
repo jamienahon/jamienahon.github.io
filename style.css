@@ -2,6 +2,11 @@ body {
     background-color: #3b3b3b;
 }
 
+h1 {
+    margin: initial;
+    padding: initial;
+}
+
 * {
     margin: 0;
     padding: 0;
