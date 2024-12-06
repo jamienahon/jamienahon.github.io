@@ -41,8 +41,11 @@ nav {
 
 blight_img {
     margin-top: 16px;
+    display: flex;
 }
 
 blight_text {
-
+    color: white;
+    margin-left: 5px;
+    margin-top: 0px;
 }
