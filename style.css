@@ -40,12 +40,11 @@ nav {
 }
 
 .blightimg {
-    margin-top: 100px;
-    display: flex;
+
 }
 
 .blighttext {
     color: white;
-    margin-left: 5px;
-    margin-top: 0px;
+    display: inline-block;
+    vertical-align: top;
 }
