@@ -41,6 +41,14 @@ nav {
     background-color: gray;
 }
 
+.title {
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 32px;
+    margin-top: 28px;
+}
+
 .blightimg {
     position: relative;
     top: 16px;
