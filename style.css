@@ -62,7 +62,7 @@ nav {
     float: right;
     top: 16px;
     margin-top: 64px;
-    margin-right: 28px
+    margin-right: 28px;
 }
 
 .rainwardtext {
@@ -97,7 +97,8 @@ nav {
     float: right;
     top: 16px;
     margin-top: 64px;
-    margin-right: 28px
+    margin-right: 28px;
+    width: 900px;
 }
 
 .fungitext {
