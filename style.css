@@ -92,6 +92,24 @@ nav {
     left: 28px;
 }
 
+.fungiimg {
+    position: relative;
+    float: right;
+    top: 16px;
+    margin-top: 64px;
+    margin-right: 28px
+}
+
+.fungitext {
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+    font-size: 24px;
+    margin-top: 80px;
+    margin-left: 28px;
+}
+
 a {
     color: white;
 }
