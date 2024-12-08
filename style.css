@@ -131,8 +131,12 @@ nav {
 
 .text {
     color: white;
-    margin-left: 28px;
+    display: inline-block;
+    vertical-align: top;
     font-size: 24px;
+    margin-top: 28px;
+    position: relative;
+    left: 28px;
 }
 
 a {
