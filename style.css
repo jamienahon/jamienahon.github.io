@@ -129,6 +129,12 @@ nav {
     left: 28px;
 }
 
+.text {
+    color: white;
+    margin-left: 28px;
+    font-size: 24px;
+}
+
 a {
     color: white;
 }
